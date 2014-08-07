@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contact</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add_user">AddUserActivity</string>
+    <string name="title_activity_update_user">UpdateUserActivity</string>
+    <string name="name">姓名:</string>
+    <string name="hint_name">请输入联系人姓名</string>
+    <string name="addr">地址:</string>
+    <string name="hint_addr">请输入联系人地址</string>
+    <string name="mobile">手机:</string>
+    <string name="hint_mobile">请输入联系人手机</string>
+    <string name="office">办公:</string>
+    <string name="hint_office">请输入办公电话</string>
+    <string name="home">家庭:</string>
+    <string name="hint_home">请输入家庭电话</string>
+    <string name="email">邮箱:</string>
+    <string name="hint_email">请输入联系人邮箱</string>
+    <string name="title_activity_welcom">WelcomActivity</string>
+    <string name="add_contact">添加</string>
+    <string name="exit_contact">退出</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="update">编辑</string>
+    <string name="sms">信息</string>
+    <string name="call">拨号</string>
+    <string name="del">删除</string>
+    <string name="search">查询</string>
+    <string name="hint_names">请输入关键字</string>
+    <string name="add_contacts">新建联系人</string>
+    <string name="main_contact">返回</string>
+    <string name="contact_app">手机通讯录</string>
+    <string name="update_contact">修改联系人</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login">用户登录</string>
+    <string name="user">账户:</string>
+    <string name="pwd">密码:</string>
+    <string name="btn_login">登录</string>
+    <string name="btn_reg">注册</string>
+    <string name="title_activity_backup">BackupActivity</string>
+    <string name="backup">备份</string>
+    <string name="reduce">查看</string>
+    <string name="backup_title">备份还原</string>
+    <string name="reg_title">新用户注册</string>
+    <string name="reg_user">账户:</string>
+    <string name="reg_pwd">密码:</string>
+    <string name="backup_list">备份历史记录</string>
+    <string name="select_date">选择日期</string>
+    <string name="contactId">备份编号:</string>
+    <string name="contactName">备份名称:</string>
+    <string name="contactSize">备份大小:</string>
+    <string name="contactTime">备份时间:</string>
+     <string name="ck_save">是否记住密码</string>
+     <string name="down">下载</string>
+    
+
+</resources>
